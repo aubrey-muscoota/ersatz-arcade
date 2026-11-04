@@ -43,3 +43,6 @@ Do not swap in Google, Apple, Esri or Mapbox imagery: their terms don't allow re
 EXPO_PUBLIC_PREVIEW=1 npx expo export -p web
 python scripts/web-single.py dist overhead.html   # one self-contained file
 ```
+
+## Wallpapers and prints
+`scripts/wallpaper.py scripts/wallpapers.json out/` renders each place at full 10 m detail as a phone wallpaper (1290 x 2796) and a 16 x 20 in print file (4800 x 6000). Same credit line applies.
