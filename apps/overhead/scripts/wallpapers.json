@@ -1,0 +1,105 @@
+[
+ {
+  "id": "eye-of-the-sahara",
+  "name": "Eye of the Sahara",
+  "place": "Richat Structure, Mauritania",
+  "lat": 21.1,
+  "lon": -11.38,
+  "gain": 0.88
+ },
+ {
+  "id": "exuma-banks",
+  "name": "Exuma Banks",
+  "place": "Bahamas",
+  "lat": 23.75,
+  "lon": -76.25
+ },
+ {
+  "id": "lena-delta",
+  "name": "Lena Delta",
+  "place": "Siberia, Russia",
+  "lat": 72.8,
+  "lon": 126.5,
+  "months": [
+   7,
+   8
+  ]
+ },
+ {
+  "id": "desert-circles",
+  "name": "Desert Circles",
+  "place": "Wadi As-Sirhan, Saudi Arabia",
+  "lat": 30.45,
+  "lon": 38.25
+ },
+ {
+  "id": "grand-canyon",
+  "name": "Grand Canyon",
+  "place": "Arizona, USA",
+  "lat": 36.1,
+  "lon": -112.11,
+  "months": [
+   5,
+   6,
+   9,
+   10
+  ]
+ },
+ {
+  "id": "dead-sea-ponds",
+  "name": "Dead Sea Ponds",
+  "place": "Israel and Jordan",
+  "lat": 31.1,
+  "lon": 35.42,
+  "date": "20250730"
+ },
+ {
+  "id": "venice-lagoon",
+  "name": "Venice Lagoon",
+  "place": "Italy",
+  "lat": 45.4,
+  "lon": 12.3,
+  "months": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ {
+  "id": "mount-fuji",
+  "name": "Mount Fuji",
+  "place": "Japan",
+  "lat": 35.36,
+  "lon": 138.73,
+  "months": [
+   11,
+   12,
+   1,
+   2
+  ]
+ },
+ {
+  "id": "betsiboka",
+  "name": "Betsiboka Delta",
+  "place": "Madagascar",
+  "lat": -15.95,
+  "lon": 46.35,
+  "months": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ {
+  "id": "palm-and-world",
+  "name": "The Palm",
+  "place": "Dubai, UAE",
+  "lat": 25.13,
+  "lon": 55.17
+ }
+]
